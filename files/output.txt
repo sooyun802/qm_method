@@ -1,0 +1,9 @@
+Number of final terms : 6
+Final terms
+(1, 5)
+(5, 7)
+(6, 7)
+(0, 1, 8, 9)
+(0, 2, 8, 10)
+(2, 6, 10, 14)
+Minimum SOP : a'bd + b'c' + cd'
